@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://jago.vn' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>10 mẫu áo thun đẹp không thể bỏ qua</a>. Xem thêm tại Jago<h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://jago.vn' target='_blank'><img src='https://lh3.googleusercontent.com/-aaNCF6lelc4/WKRCTJF8dPI/AAAAAAAAANg/YeQ8r1TAViMkdhVIwwiEllA9RjF8V0ZwACL0B/w530-d-h177-p-rw/slideshow_image_1.jpg' width='500px'/><br/>10 mẫu áo thun đẹp không thể bỏ qua</a>. Xem thêm tại Jago<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
