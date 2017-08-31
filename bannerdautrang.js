@@ -115,7 +115,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/LvkU4p' target='_blank'><img src='https://lh3.googleusercontent.com/-aaNCF6lelc4/WKRCTJF8dPI/AAAAAAAAANg/YeQ8r1TAViMkdhVIwwiEllA9RjF8V0ZwACL0B/w530-d-h177-p-rw/slideshow_image_1.jpg' width='500px'/><br/>10 cách tắm trắng hiệu quả tại nhà</a>. Xem thêm tại KHAKIM.COM<h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/ocsTwi' target='_blank'><img src='https://lh3.googleusercontent.com/-aaNCF6lelc4/WKRCTJF8dPI/AAAAAAAAANg/YeQ8r1TAViMkdhVIwwiEllA9RjF8V0ZwACL0B/w530-d-h177-p-rw/slideshow_image_1.jpg' width='500px'/><br/>10 cách tắm trắng hiệu quả tại nhà</a>. Xem thêm tại KHAKIM.COM<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
